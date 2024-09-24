@@ -22,6 +22,7 @@ const config: StorybookConfig = {
         },
       },
     },
+    "@mihkeleidast/storybook-addon-source",
   ],
   framework: {
     name: "@storybook/nextjs",
